@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    background-color: #1C1C1C;
+}
+
+.page-div {
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 25%;
+}
+
+#align {
+    display: inline-flex;
+    flex-direction: column;
+    margin-top: 5rem;
+}
+
+.title {
+    color: white;
+    justify-content: center;
+    margin-bottom: 0px;
+    font-size: 2rem;
+}
+
+.title-extra {
+ color: #50ec87;
+ justify-content: center;
+ margin-top: 0px;
+ margin-bottom: 5px;
+ font-size: 2rem;
+}
+
+.slogan {
+    color: #D5D4D8;
+    justify-content: center;
+    margin-top: 0px;
+    font-size: larger;
+}
+
+#password-gen {
+    background-color: #10B981;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 10px;
+    color: white;
+    margin: 0px auto 20px auto;
+    justify-content: center;
+    cursor: pointer;
+    width: 200px;
+
+}
+
+#line {
+    height: 1px;
+    width: 450px;
+    margin: 0px auto;
+    background-color: #2F3E53;
+    justify-content: center;
+}
+
+.password-box1, .password-box2{
+   background-color: #273549;
+   height: 30px;
+   width: 160px;
+   border-radius: 7px;
+   display: inline-flex;
+   margin: 20px 10px 0px 10px;
+   color: #50ec87;
+}
+
